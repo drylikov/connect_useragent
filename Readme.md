@@ -31,4 +31,3 @@ provides details such as the following:
   os: { name: 'Mac OS X', machine: 'mac-os-x' } }
 ```
 
-
