@@ -1,0 +1,15 @@
+{
+    "name": "connect_useragent"
+  , "version": "0.0.1"
+  , "description": "Connect user-agent middleware"
+  , "keywords": ["useragent", "connect", "middleware"]
+  , "author": "Denis Rylikov <denis.rylikov@protonmail.com>"
+  , "dependencies": {
+    "useragent": "1.0.6"
+  }
+  , "devDependencies": {
+    "connect": "1.7.1"
+  }
+  , "main": "index"
+  , "engines": { "node": "*" }
+}
