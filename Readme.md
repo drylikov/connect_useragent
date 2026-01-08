@@ -30,4 +30,3 @@ provides details such as the following:
   patch: '4',
   os: { name: 'Mac OS X', machine: 'mac-os-x' } }
 ```
-
